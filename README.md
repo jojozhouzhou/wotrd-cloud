@@ -1,6 +1,6 @@
 # wotrd-cloud
 基于nacos的spring cloud微服务框架、集成认证授权、动态网关、分库分表、dubbo开箱即用。  
-
+文字地址：https://blog.csdn.net/weixin_34080571/article/details/91715402
 个人博客地址：https://ailijie.top  
 qq群：  602107221
 
